@@ -1,0 +1,9 @@
+[
+  { "id":1 ,"Name": "Cheese", "price" : 2.50, "Location": "Refrigerated foods", "qty": 2},
+  {"id":2 , "Name": "Crisps", "price" : 3, "Location": "the Snack isle", "qty": 5},
+  {"id":3 , "Name": "pizza", "price" : 4, "Location": "Refrigerated foods", "qty": 7 },
+  {"id":4 , "Name": "Chocolate", "price" : 1.50, "Location": "the Snack isle", "qty": 8 },
+  {"id":5 , "Name": "Self-raising flour", "price" : 1.50, "Location": "Home baking", "qty": 0 },
+  {"id":6 , "Name": "Ground almonds", "price" : 3, "Location": "Home baking", "qty": 1 }
+  ]
+  
